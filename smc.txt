@@ -4,6 +4,25 @@ enen nihao a
 
 haved rename 
 
+<<<<<<< HEAD
 this is clone
 
+
 new branc
+=======
+<<<<<<< HEAD
+标签管理
+
+
+=======
+this is clone 
+>>>>>>> 250ade248106d50eb5f344e5e898ec0b1b6fc934
+
+sourcetree  clone
+
+创建2.0版本
+
+gitTest8 update
+>>>>>>> d4d58ce7229558d372fcb184fbc5846b9510c854
+
+aaaaa , sssssss
